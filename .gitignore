@@ -1,0 +1,19 @@
+# ===== Logs and System Files =====
+*.log
+*.bak
+*.tmp
+.git/
+
+# ===== Jenkins =====
+secrets/
+jobs/
+.jenkins/
+.pipeline/
+
+# ===== OS Specific =====
+.DS_Store
+Thumbs.db
+
+# ===== IDEs =====
+.vscode/
+.idea/
