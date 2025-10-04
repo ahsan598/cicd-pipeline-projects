@@ -2,7 +2,6 @@
 
 This project demonstrates a complete CI/CD workflow using **Jenkins**, **Docker**, and **GitHub** to build, deploy, and run a **Node.js To-Do App** inside a Docker container.
 
----
 
 ### 🧱 Tech Stack
 
