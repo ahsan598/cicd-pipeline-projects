@@ -21,7 +21,7 @@ This project sets up a CI/CD pipeline using Jenkins to automate the deployment o
 - Image is deployed on EC2
 
 
-![Project Diagram](https://github.com/ahsan598/devops-projects-hands-on/blob/main/project-6-jenkins-deploy-static-website/screenshots/jenkins-deploy-static-site.png)
+![Project Diagram](./img/jenkins-deploy-static-site.png)
 
 ---
 

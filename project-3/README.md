@@ -57,7 +57,7 @@ jenkins-k8s-java-deployment/
 
 ### 🔄 CI/CD Pipeline Workflow
 
-![Project Diagram](https://github.com/ahsan598/jenkins-k8s-java-deployment/blob/main/screenshots/processflow.png)
+![Project Diagram](./imgs/processflow.png)
 
 1. **Developer pushes code to Git**
 2. **Jenkins** gets triggered by a webhook (or polling)

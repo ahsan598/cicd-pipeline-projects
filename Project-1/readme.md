@@ -22,7 +22,7 @@ This project demonstrates a complete CI/CD workflow using **Jenkins**, **Docker*
 
 ### 🔄 CI/CD Workflow
 
-![Process Flow](https://github.com/ahsan598/devops-project-1/blob/main/workflow.png)
+![Process Flow](./img/workflow.png)
 
 1. Developer pushes code to GitHub repo.
 2. GitHub webhook triggers Jenkins build.
